@@ -14,4 +14,6 @@ Set up Netdata, access its dashboard, and explore live system and app performanc
 5. Check out the alerts and different chart panels to get insights into system health.
 6. To view Netdata logs, run:
    docker exec -it netdata cat /var/log/netdata/error.log
-  ![netstat Dashboard]()
+  ![netstat Dashboard](images/Screenshort1.png)
+  ![netstat Dashboard](images/Screenshort2.png)
+  ![netstat Dashboard](images/Screenshort3.png)
